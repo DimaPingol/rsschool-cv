@@ -10,7 +10,7 @@
     * CSS 
     * Git  
 5. #### Code example: 
-
+    ```javascript function multiply(a, b){ return a * b}```
 6. #### Education 
     - BSAC
     - RS-School(in process)
