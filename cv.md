@@ -8,13 +8,12 @@
 4. #### Skills:
     * HTML
     * CSS 
-    * Git
-5. #### Code example
-`  javascript function multiply(a, b){ return a * b} `
-6. I haven't work experience 
-7. #### Education 
+    * Git  
+5. #### Code example: 
+
+6. #### Education 
     - BSAC
     - RS-School(in process)
-8. #### Languages 
+7. #### Languages 
     * Russian
     * English
