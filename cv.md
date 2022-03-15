@@ -9,7 +9,12 @@
     * HTML
     * CSS 
     * Git
-5. 
-6. 
-7. 
-8. 
+5. #### Code example
+`  javascript function multiply(a, b){ return a * b} `
+6. I haven't work experience 
+7. #### Education 
+    - BSAC
+    - RS-School(in process)
+8. #### Languages 
+    * Russian
+    * English
